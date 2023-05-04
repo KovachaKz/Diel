@@ -1,0 +1,4 @@
+@import './state.scss';
+html {
+  @include dark-theme-colors;
+}

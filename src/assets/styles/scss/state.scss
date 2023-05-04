@@ -1,0 +1,19 @@
+:root {
+    --background-color-primary: #ebebeb;
+    --background-color-secondary: #fafafa;
+    --accent-color: #ff18f0;
+    // --accent-color: #cacaca;
+    --text-primary-color: #1e1e1e;
+    --text-secondary-color: #fafafa;
+    --element-size: 4rem;
+
+}
+
+:root.dark-theme {
+    --background-color-primary: #1e1e1e;
+    --background-color-secondary: #2d2d30;
+    --accent-color: #ff18f0;
+    --text-primary-color: #ddd;
+    --text-secondary-color: #ebebeb;
+    --element-size: 4rem;
+}
